@@ -177,6 +177,9 @@ main {
 }
 
 /* Resume Section */
+.resume {
+  margin-top: 130px;
+}
 .resume-container {
   display: flex;
   gap: 24px;
